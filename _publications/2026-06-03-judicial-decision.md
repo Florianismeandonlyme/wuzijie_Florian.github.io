@@ -1,11 +1,12 @@
 ---
-title: "Judicial Decision Under Pressure: Evidence From Chinese Judiciary"
+title: "Judicial Decisions Under Pressure: Evidence from the Chinese Judiciary"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-06-03-judicial-decision
-excerpt: 'This paper studies how caseload pressure affects judicial decisions in Chinese appellate courts, exploiting quasi-random variations in peer judges’ workloads as an instrumental variable and measuring trial complexity via NLP.'
+excerpt: 'This paper studies whether caseload pressure changes appellate decision-making, linking 3.3 million Chinese civil appellate decisions from 2013 to 2021 to judge-level workload and written reasoning.'
 date: 2026-06-03
 venue: 'Working Paper'
-citation: 'Wu, Zi-Jie. (2026). &quot;Judicial Decision Under Pressure: Evidence From Chinese Judiciary.&quot; <i>Working Paper</i>.'
+paperurl: 'https://drive.google.com/file/d/15NlDQ-BMcbwQrZWkfWQgTJtfCxzA6qyy/view?usp=drive_link'
+citation: 'Wu, Zi-Jie. (2026). &quot;Judicial Decisions Under Pressure: Evidence from the Chinese Judiciary.&quot; <i>Working Paper</i>.'
 ---
-This paper investigates the causal effect of caseload pressure on judicial decision-making. Utilizing over 3 million appellate court verdicts in China and leveraging the quasi-random variation of peer judges' workloads as an instrumental variable, we find that heightened caseload pressure significantly increases the likelihood of trial judges upholding the original judgment. To understand the underlying mechanism, we employ Natural Language Processing (NLP) techniques, including Sentence-BERT and the Lempel-Ziv algorithm, to measure trial complexity and text entropy. The results indicate that under pressure, judges tend to rely more on heuristic decision-making, which exacerbates bias and reduces the transparency and uniformity of judicial outcomes.
+This paper studies whether caseload pressure changes appellate decision-making. Using 3.3 million Chinese civil appellate decisions from 2013 to 2021, I link appellate outcomes to judge-level workload and written reasoning. I instrument a presiding judge's caseload with the leave-one-out workload of other presiding judges in the same court and month. A doubling of appellate caseload increases the probability that the appellate court upholds the first-instance judgment by about 0.7 percentage points. Heavier caseloads also reduce legal citations and increase textual similarity between first- and second-instance reasoning. The results show that court congestion changes not only how quickly courts process disputes, but also how intensively appellate judges review lower-court decisions.
