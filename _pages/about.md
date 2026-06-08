@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Wu Zi-Jie (Florian)**, an MPhil candidate in Law and Economics at the Shanghai University of International Business and Economics (SUIBE). 
+Hi, I'm **WU Zi-Jie (Florian)**, an MPhil candidate in Law and Economics at the Shanghai University of International Business and Economics (SUIBE). 
 
 My research explores the intersection of **Empirical Legal Studies, Law and Economics, Economics of Crime, and Judicial Politics**. I am particularly interested in how institutional reforms, legal enforcement, and environmental factors shape economic behavior and judicial decision-making in China.
 

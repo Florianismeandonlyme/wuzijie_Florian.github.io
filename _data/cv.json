@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "WU Zi-Jie",
+    "email": "florian492@outlook.com",
+    "phone": "+86 18876599357",
+    "website": "https://florianismeandonlyme.github.io/wuzijie_Florian.github.io",
+    "summary": "M.Phil. candidate in Law and Economics at Shanghai University of International Business and Economics.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Wenhui Rd",
+      "postalCode": "201600",
+      "city": "Shanghai",
+      "countryCode": "CN",
+      "region": "Songjiang District"
     },
     "profiles": [
       {
@@ -20,133 +20,110 @@
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0009-0004-5193-4644",
+        "url": "https://orcid.org/0009-0004-5193-4644"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Florianismeandonlyme",
+        "url": "https://github.com/Florianismeandonlyme"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Research Assistant",
+      "name": "Shanghai University of International Business and Economics",
+      "startDate": "2024-09",
+      "endDate": "2025-06",
+      "summary": "Research assistant work in empirical law and economics."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Shanghai University of International Business and Economics",
+      "area": "Law and Economics",
+      "studyType": "M.Phil. Candidate",
+      "startDate": "2024",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Qilu University of Technology (Shandong Academy of Sciences)",
+      "area": "Law",
+      "studyType": "LL.B.",
+      "startDate": "2019",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Qilu University of Technology (Shandong Academy of Sciences)",
+      "area": "Economics",
+      "studyType": "B.Sc.",
+      "startDate": "2019",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Data Processing",
+      "keywords": ["Python", "Stata", "regular expressions", "geopandas"]
+    },
+    {
+      "name": "Computational Social Science",
+      "keywords": ["text-as-data", "judicial decisions", "patent data", "spatial data"]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": ["Empirical Legal Studies", "Law and Economics", "Economics of Crime", "Judicial Politics"]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Judicial Decisions Under Pressure: Evidence from the Chinese Judiciary",
+      "publisher": "Working Paper",
+      "releaseDate": "2026",
+      "website": "https://drive.google.com/file/d/15NlDQ-BMcbwQrZWkfWQgTJtfCxzA6qyy/view?usp=drive_link",
+      "summary": "This paper studies whether caseload pressure changes appellate decision-making."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "When the Sun Goes Down: Darkness, Crime, and the Substitutability of Public Infrastructure and Services",
+      "publisher": "Working Paper",
+      "releaseDate": "2026",
+      "website": "https://drive.google.com/file/d/1ObK3aO5KCABXBzvdiVcfSPwRPky9ZvBc/view?usp=drive_link",
+      "summary": "This paper studies how sunlight and darkness affect criminal activity in China."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Judicial Reform and Breakthrough Innovation: Evidence from China",
+      "publisher": "Economic Change and Restructuring, under review",
+      "releaseDate": "2026",
+      "website": "https://papers.ssrn.com/abstract=6840918",
+      "summary": "This paper studies China's 2020 complex-simple civil case diversion reform and breakthrough innovation."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Central-Local Industrial Policy Coordination, Local Comparative Advantage, and High-Quality Innovation",
+      "publisher": "The Journal of World Economy, under review",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "This paper studies central-local industrial policy coordination and local innovation."
+    },
+    {
+      "name": "Urban Spatial Aesthetics, Innovation Factor Allocation, and Breakthrough Innovation",
+      "publisher": "China Economic Quarterly, under review",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "This paper studies urban street aesthetics and breakthrough innovation."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
