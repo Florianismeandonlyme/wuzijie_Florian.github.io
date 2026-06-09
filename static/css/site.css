@@ -109,15 +109,27 @@ a:hover {
 }
 
 .nav,
-.links {
+.links,
+.lang-switch {
   display: flex;
   flex-wrap: wrap;
   gap: 8px 14px;
 }
 
 .nav a,
-.links a {
+.links a,
+.lang-switch a {
   white-space: nowrap;
+}
+
+.lang-switch {
+  color: var(--muted);
+}
+
+.lang-switch .active {
+  color: var(--text);
+  font-weight: 700;
+  text-decoration: none;
 }
 
 .theme-toggle {
